@@ -94,17 +94,18 @@ body {
 
 /*.column1 img:hover{
   content: url('file:///C:/Users/vanre/OneDrive/Desktop/Project/images/education2.png');
-  cursor:pointer;
 }
 
 .column2 img:hover{
   content: url('file:///C:/Users/vanre/OneDrive/Desktop/Project/images/athena2.png'); 
-  cursor:pointer;
 }
 
 .column3 img:hover{
   content: url('file:///C:/Users/vanre/OneDrive/Desktop/Project/images/interest2.png');
+<<<<<<< HEAD
   cursor:pointer;
+=======
+>>>>>>> 1645713192c737752ca5e9d56cecf82a2a38a986
 }*/
 
 
