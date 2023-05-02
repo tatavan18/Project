@@ -92,7 +92,7 @@ body {
   justify-content:center;
 }
 
-.column1 img:hover{
+/*.column1 img:hover{
   content: url('file:///C:/Users/vanre/OneDrive/Desktop/Project/images/education2.png');
   cursor:pointer;
 }
@@ -105,7 +105,7 @@ body {
 .column3 img:hover{
   content: url('file:///C:/Users/vanre/OneDrive/Desktop/Project/images/interest2.png');
   cursor:pointer;
-}
+}*/
 
 
 .column1 p, .column2 p, .column3 p{
