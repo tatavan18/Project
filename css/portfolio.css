@@ -37,68 +37,6 @@ body {
   
 }
 
-/* Right-aligned link 
-.menu a.right {
-  float: right;
-}*/
-
-
-
-/* Column container */
-.row {  
-  display: -ms-flexbox; /* IE10 */
-  display: flex;
-  -ms-flex-wrap: wrap; /* IE10 */
-  flex-wrap: wrap;
-}
-
-/* Create two unequal columns that sits next to each other */
-/* Sidebar/left column */
-.side {
-  -ms-flex: 30%; /* IE10 */
-  flex: 30%;
-  background-color: #f1f1f1;
-  padding: 20px;
-}
-
-/* Main column */
-.main {   
-  -ms-flex: 70%; /* IE10 */
-  flex: 70%;
-  background-color: white;
-  padding: 20px;
-}
-
-/* Fake image, just for this example */
-.fakeimg {
-  background-color: #aaa;
-  width: 100%;
-  padding: 20px;
-}
-
-/* Footer */
-.footer {
-  padding: 20px;
-  text-align: center;
-  background: #ddd;
-}
-
-/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 700px) {
-  .row {   
-    flex-direction: column;
-  }
-}
-
-/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
-@media screen and (max-width: 400px) {
-  .navbar a {
-    float: none;
-    width: 100%;
-	height:200px;
-  }
-}
-
 /*About*/
 
 .about{
@@ -155,15 +93,15 @@ body {
 }
 
 .column1 img:hover{
-  content: url('file:///C:/Users/vanre/OneDrive/Desktop/Portfolio/images/education2.png');
+  content: url('file:///C:/Users/vanre/OneDrive/Desktop/Project/images/education2.png');
 }
 
 .column2 img:hover{
-  content: url('file:///C:/Users/vanre/OneDrive/Desktop/Portfolio/images/athena2.png');
+  content: url('file:///C:/Users/vanre/OneDrive/Desktop/Project/images/athena2.png');
 }
 
 .column3 img:hover{
-  content: url('file:///C:/Users/vanre/OneDrive/Desktop/Portfolio/images/interest2.png');
+  content: url('file:///C:/Users/vanre/OneDrive/Desktop/Project/images/interest2.png');
 }
 
 
@@ -435,9 +373,6 @@ body {
 .slide-5 img{
 	padding-left: 80px;
 }
-
-
-
 
 
 /*Footer*/
