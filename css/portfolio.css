@@ -413,7 +413,7 @@ body {
 }
 
 /*media queries*/
-@media only screen and (orientation:portrait) {
+@media only screen and (max-width: 1405px) {
 	
 	.logo {
 	padding: 50px 30px;
