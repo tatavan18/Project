@@ -513,6 +513,25 @@ body {
 
 .contactinfo, .socials{
   width: 100%;
-  
+}
+
+.socials img{
+	display: inline;
+}
+
+.soc {
+	display: inline-block;
+	
+}
+}
+
+@media only screen and (min-height: 250px) and (max-height: 600px){
+  .menu {
+   height: 60px;
+}
+
+  .soc {
+	display: inline-block;
+	
 }
 }
